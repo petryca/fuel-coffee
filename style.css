@@ -232,6 +232,10 @@ footer {
         margin: 0;
     }
 
+    .content>div:nth-child(1) {
+        border-radius: 20px;
+    }
+
     .content {
         margin-inline: 40px;
         text-align: left;
