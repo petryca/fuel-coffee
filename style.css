@@ -236,6 +236,10 @@ footer {
         border-radius: 20px;
     }
 
+    .content>div:nth-child(3) {
+        grid-template-columns: 1fr 2fr;
+    }
+
     .content {
         margin-inline: 40px;
         text-align: left;
